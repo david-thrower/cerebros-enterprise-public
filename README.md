@@ -15,3 +15,5 @@ How to use Cerebros
 
 1. Log in at the url provided when you signed up, use the user name and password provided:
 ![assets/login.png](assets/login.png)
+2. Click [Notebooks] > [Connect].
+![assets/notebook.png](assets/notebook.png)
