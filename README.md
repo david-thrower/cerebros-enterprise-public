@@ -17,3 +17,5 @@ How to use Cerebros
 ![assets/login.png](assets/login.png)
 2. Click [Notebooks] > [Connect].
 ![assets/notebooks.png](assets/notebooks.png)
+3. Open the Cerebros folder:
+![assets/cerebros-folder.png](assets/cerebros-folder.png)
