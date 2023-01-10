@@ -7,4 +7,11 @@
 3. This can be used for so may valuable things:
   1. Predicting which leads are going to buy and hence which ones to prioritize pitching advertising to.
   2. Predicting sale prices.
-  3. Predicting customer churn.
+  3. Predicting customer churn. ...
+
+## Documentation
+
+How to use Cerebros
+
+1. Log in at the url provided when you signed up, use the user name and password provided:
+![assets/login.png](assets/login.png)
