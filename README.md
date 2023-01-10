@@ -19,3 +19,9 @@ How to use Cerebros
 ![assets/notebooks.png](assets/notebooks.png)
 3. Open the Cerebros folder:
 ![assets/cerebros-folder.png](assets/cerebros-folder.png)
+4. Open the Ames housing demo:
+![assets/open-ames.png](assets/open-ames.png)
+5. Run the first cell [shift] + [enter].
+![assets/run-cell-1.png](assets/run-cell-1.png)
+6. Run the second cell. **WAIT FOR THIS TO POP UP and click [OK].
+![assets/run-cell-2.png](assets/run-cell-2.png)
