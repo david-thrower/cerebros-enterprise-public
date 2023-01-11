@@ -40,3 +40,5 @@ How to use Cerebros
     ![assets/kale-setup-1.png](assets/kale-setup-1.png)
     7. Click [advanced settings].
     ![assets/advanced-settings.png](assets/advanced-settings.png)
+    8. Your run will be deployed.
+    ![assets/deployed.png](assets/deployed.png)
