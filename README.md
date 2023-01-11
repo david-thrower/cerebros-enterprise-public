@@ -25,3 +25,5 @@ How to use Cerebros
 ![assets/run-cell-1.png](assets/run-cell-1.png)
 6. Run the second cell. **WAIT FOR THIS TO POP UP and click [OK].
 ![assets/run-cell-2.png](assets/run-cell-2.png)
+7. Click the Kale leaf button.
+![assets/click-kale.png](assets/click-kale.png)
