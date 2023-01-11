@@ -52,5 +52,6 @@ How to use Cerebros
     1. You can see their logs as well. If you contact Cerebros support, you just may be asked to copy information from here to help help you.
 ![assets/runs.png](assets/runs.png)
 ![assets/runs2.png](assets/runs2.png)
+![assets/logs.png](assets/logs.png)
 14. When your experiment is complete, you may find a parallel coordinates graph showing the best best options for making a model. These options, we call hyperparameters. These will be useful to build the best model and use it in production.
 ![assets/parallel.png](assets/parallel.png)
