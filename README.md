@@ -40,7 +40,11 @@ How to use Cerebros
     ![assets/kale-setup-1.png](assets/kale-setup-1.png)
     7. Click [advanced settings].
     ![assets/advanced-settings.png](assets/advanced-settings.png)
-11. Your run will be automatically deployed. If you see "gathering suggestions", that should indicate that the pipeline was accepted. Give it a moment to confirm that there are runs running.
+11. Your run will be automatically deployed. If you see "gathering suggestions", that should indicate that the pipeline was accepted. Give it a moment to confirm that there are runs running. This created an AutoML experiment for you. AutoML experiments will automatically build many Cerebros predictive models, picking different options for how it will build them for each. As it goes, it will learn what ranges of these options are working well and which aren't, picking better ones until it finds the best it can. Then you have a reasonably optimal model.
 ![assets/deployed.png](assets/deployed.png)
-12. Now you can go back to the home page. This will probably still be open on the browser tab to the left of what the notebooks tab opened. ** Click "Experiments AutoML"**.
+12. Now you can go back to the home page. This will probably still be open on the browser tab to the left of what the notebooks tab opened. ** Click "Experiments AutoML"**, then click on your experiment.
 ![assets/experiments.png](assets/experiments.png)
+13. Click the trials tab, and see your results thus far. You may not be familiar with all the numbers here, but the main two things to know are:
+    1. The column val_root_mean_squared_error, (should be the first column), this is a measure of how far off our predictions are an average. The lower this is, the better we did. If you predicted with new data using a given trial's model, you can expect it to be off from the correct answer by about this much on average. The example predicts home prices. If this gave you $453.05 as the val_root_mean_squared_error, this means the house prices it predicts should be on average accurate to $453.05 on average, not bad. As you see in this image, it may take time for this to populate. Don't worry if the column is blank at first.
+    2. The other columns are the options that this trial used.
+![assets/trails.png](assets/trails.png)
