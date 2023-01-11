@@ -48,5 +48,9 @@ How to use Cerebros
     1. The column val_root_mean_squared_error, (should be the first column), this is a measure of how far off our predictions are an average. The lower this is, the better we did. If you predicted with new data using a given trial's model, you can expect it to be off from the correct answer by about this much on average. The example predicts home prices. If this gave you $453.05 as the val_root_mean_squared_error, this means the house prices it predicts should be on average accurate to $453.05 on average, not bad. As you see in this image, it may take time for this to populate. Don't worry if the column is blank at first.
     2. The other columns are the options that this trial used.
 ![assets/trials.png](assets/trials.png)
+14. You may watch these trials run in the runs tab:
+    1. You can see their logs as well. If you contact Cerebros support, you just may be asked to copy information from here to help help you.
+![assets/runs.png](assets/runs.png)
+![assets/runs2.png](assets/runs2.png)
 14. When your experiment is complete, you may find a parallel coordinates graph showing the best best options for making a model. These options, we call hyperparameters. These will be useful to build the best model and use it in production.
 ![assets/parallel.png](assets/parallel.png)
