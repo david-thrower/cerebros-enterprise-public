@@ -25,5 +25,16 @@ How to use Cerebros
 ![assets/run-cell-1.png](assets/run-cell-1.png)
 6. Run the second cell. **WAIT FOR THIS TO POP UP and click [OK].
 ![assets/run-cell-2.png](assets/run-cell-2.png)
-7. Click the Kale leaf button.
+7. Upload your data:
+![assets/upload-data.png](assets/upload-data.png)
+8. Tell Cerebros which file you want it to train your AI model with, and tell it which column in the file you want it to predict. This file should be in CSV format. There are additional options for ingesting other formats of files like tab delimited, JSON, parquet, or connecting to databases. Tor this, look at the documentation for the Pandas Python package.
+![assets/choose-data.png](assets/choose-data.png)
+9. Click the Kale leaf button.
 ![assets/click-kale.png](assets/click-kale.png)
+10. Setup Kale
+  1. New experiment
+  2. Give your experiment a name
+  3. Give a name for the pipeline (should be anything that makes it obvious which experiment it is for).
+  5. Make sure the "Docker image" field is blank. If it isn't, delete whatever is there. If you don't, the pipeline will fail out.
+  6. Last, Click setup Katib job.
+  ![assets/kale-setup-1.png](assets/kale-setup-1.png)
