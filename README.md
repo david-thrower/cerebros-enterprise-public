@@ -32,9 +32,9 @@ How to use Cerebros
 9. Click the Kale leaf button.
 ![assets/click-kale.png](assets/click-kale.png)
 10. Setup Kale
-  1. New experiment
-  2. Give your experiment a name
-  3. Give a name for the pipeline (should be anything that makes it obvious which experiment it is for).
-  5. Make sure the "Docker image" field is blank. If it isn't, delete whatever is there. If you don't, the pipeline will fail out.
-  6. Last, Click setup Katib job.
-  ![assets/kale-setup-1.png](assets/kale-setup-1.png)
+    1. New experiment
+    2. Give your experiment a name
+    3. Give a name for the pipeline (should be anything that makes it obvious which experiment it is for).
+    5. Make sure the "Docker image" field is blank. If it isn't, delete whatever is there. If you don't, the pipeline will fail out.
+    6. Last, Click setup Katib job.
+    ![assets/kale-setup-1.png](assets/kale-setup-1.png)
