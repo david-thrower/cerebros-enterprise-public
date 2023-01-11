@@ -40,5 +40,7 @@ How to use Cerebros
     ![assets/kale-setup-1.png](assets/kale-setup-1.png)
     7. Click [advanced settings].
     ![assets/advanced-settings.png](assets/advanced-settings.png)
-    8. Your run will be deployed.
-    ![assets/deployed.png](assets/deployed.png)
+11. Your run will be automatically deployed. If you see "gathering suggestions", that should indicate that the pipeline was accepted. Give it a moment to confirm that there are runs running.
+![assets/deployed.png](assets/deployed.png)
+12. Now you can go back to the home page. This will probably still be open on the browser tab to the left of what the notebooks tab opened. ** Click "Experiments AutoML"**.
+![assets/experiments.png](assets/experiments.png)
