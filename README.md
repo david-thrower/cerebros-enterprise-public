@@ -49,3 +49,4 @@ How to use Cerebros
     2. The other columns are the options that this trial used.
 ![assets/trials.png](assets/trials.png)
 14. When your experiment is complete, you may find a parallel coordinates graph showing the best best options for making a model. These options, we call hyperparameters. These will be useful to build the best model and use it in production.
+![assets/parallel.png](assets/parallel.png)
