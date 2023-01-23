@@ -55,7 +55,7 @@ How to use Cerebros
         3. Green: Ran successfully
         4. Red: something went wrong
     3. Click on any workflow step to get more information.
-    3. You can see their logs as well. Just click a workflow step then "logs" If you contact Cerebros support, you just may be asked to copy information from here to help help you.
+    3. You can see their logs as well. Just click a workflow step then "logs". If you contact Cerebros support, you just may be asked to copy information from here to help help you.
 ![assets/runs.png](assets/runs.png)
 ![assets/runs2.png](assets/runs2.png)
 ![assets/logs.png](assets/logs.png)
